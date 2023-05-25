@@ -1,2 +1,2 @@
-public class Cheater {
+public class Cheater extends Player {
 }
