@@ -1,7 +1,11 @@
 public class Card {
-    int number;
+    int number; //nummer på kort
 
-    public Card(int i){
-    this.number = i;
+    public Card(int number){
+    this.number = number;
+    }
+
+    public int getNumber() {
+        return number
     }
 }
