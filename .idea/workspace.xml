@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c8697e4-5f6b-468b-a60d-07e08d251b4d" name="Changes" comment="subclass cheater&#10;Deck for loop">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Card.java" afterDir="false" />
-    </list>
+    <list default="true" id="3c8697e4-5f6b-468b-a60d-07e08d251b4d" name="Changes" comment="subclass cheater&#10;Deck for loop&#10;card class&#10;deck class" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1685041212443</updated>
       <workItem from="1685041213748" duration="3876000" />
-      <workItem from="1685378893287" duration="844000" />
+      <workItem from="1685378893287" duration="1144000" />
     </task>
     <task id="LOCAL-00001" summary="subclass cheater">
       <created>1685042508459</created>
@@ -61,7 +58,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685042845155</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="subclass cheater&#10;Deck for loop&#10;card class">
+      <created>1685379785260</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685379785260</updated>
+    </task>
+    <task id="LOCAL-00004" summary="subclass cheater&#10;Deck for loop&#10;card class&#10;deck class">
+      <created>1685380039496</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685380039496</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +92,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="subclass cheater" />
     <MESSAGE value="subclass cheater&#10;Deck for loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="subclass cheater&#10;Deck for loop" />
+    <MESSAGE value="subclass cheater&#10;Deck for loop&#10;card class" />
+    <MESSAGE value="subclass cheater&#10;Deck for loop&#10;card class&#10;deck class" />
+    <option name="LAST_COMMIT_MESSAGE" value="subclass cheater&#10;Deck for loop&#10;card class&#10;deck class" />
   </component>
 </project>
