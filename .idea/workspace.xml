@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c8697e4-5f6b-468b-a60d-07e08d251b4d" name="Changes" comment="subclass cheater&#10;Deck for loop&#10;card class&#10;deck class" />
+    <list default="true" id="3c8697e4-5f6b-468b-a60d-07e08d251b4d" name="Changes" comment="subclass cheater&#10;Deck for loop&#10;card class&#10;deck class update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1685041212443</updated>
       <workItem from="1685041213748" duration="3876000" />
-      <workItem from="1685378893287" duration="1144000" />
+      <workItem from="1685378893287" duration="2026000" />
     </task>
     <task id="LOCAL-00001" summary="subclass cheater">
       <created>1685042508459</created>
@@ -72,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685380039496</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="subclass cheater&#10;Deck for loop&#10;card class&#10;deck class update">
+      <created>1685382942375</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685382942375</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +101,7 @@
     <MESSAGE value="subclass cheater&#10;Deck for loop" />
     <MESSAGE value="subclass cheater&#10;Deck for loop&#10;card class" />
     <MESSAGE value="subclass cheater&#10;Deck for loop&#10;card class&#10;deck class" />
-    <option name="LAST_COMMIT_MESSAGE" value="subclass cheater&#10;Deck for loop&#10;card class&#10;deck class" />
+    <MESSAGE value="subclass cheater&#10;Deck for loop&#10;card class&#10;deck class update" />
+    <option name="LAST_COMMIT_MESSAGE" value="subclass cheater&#10;Deck for loop&#10;card class&#10;deck class update" />
   </component>
 </project>
