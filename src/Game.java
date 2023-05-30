@@ -9,5 +9,12 @@ public class Game {
         cheater = new Cheater(deck);
     }
 
-    public void
+    public void start(){
+        Card card1 = player1.drawCard();
+        Card card2 = cheater.drawCard();
+
+        System.out.println("player 1 drew" + card1.getNumber());
+        System.out.println("cheater drew" + card2.getNumber());
+
+    }
 }
