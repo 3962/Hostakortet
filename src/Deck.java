@@ -1,21 +1,21 @@
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-public class Deck {
-    private List<Card> deck;
+public class Deck { // class som skapar kortleken
+    private List<Card> cards;
 
     public Deck(){
-        deck = new arrayList<>();
+        cards = new ArrayList<>();
         for (int i = 1; i <= 10; i++){
-            deck.add(new Card(i));
+            cards.add(new Card(i));
         }
         shuffleDeck();
     }
-public Card drawCard() {
-    return deck.remove(deck.size() - 1);
+public Card drawCard() { // metod som drar och tar bort ett kort från kortleken
+    return cards.remove(cards.size() - 1);
 }
 private void shuffleDeck(){
-        Collection.shuffle(deck);
-    }
+        Collections.shuffle(cards);
+    } // metod som blandar kortleken
 }
 

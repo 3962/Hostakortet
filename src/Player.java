@@ -1,11 +1,11 @@
-public class Player {
-    protected Deck deck; //kortleken
+public class Player { //class för spelare som kan dra kort ur kortleken
+    protected Deck deck;
 
-    public Player(Deck deck) {
+    public Player(Deck deck) { //constructor
         this.deck = deck;
     }
 
-    public Card drawCard(){
-        return deck.drawCard(); //dra ett kort från kortleken
+    public Card drawCard(){ // metod som drar kort från korleken
+        return deck.drawCard();
     }
 }
