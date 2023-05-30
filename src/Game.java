@@ -16,5 +16,8 @@ public class Game {
         System.out.println("player 1 drew" + card1.getNumber());
         System.out.println("cheater drew" + card2.getNumber());
 
+        if (card1.getNumber() > card2.getNumber()){
+
+        }
     }
 }
